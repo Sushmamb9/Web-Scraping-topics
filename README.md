@@ -1,6 +1,9 @@
 # Web Scraping with Python
 
 Check out jupyter notebook here: https://jovian.ai/8smbhavikatti/scraping-giva-jewelleries
+
+![Image](https://i.imgur.com/cMC7RFW.png)
+
 ## Introduction:
 ### Introduction on Web scraping:
 Web scraping is the process of extracting specific data from the internet automatically
